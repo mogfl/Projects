@@ -68,7 +68,7 @@
     <td>10</td>
     <td><a href="https://nbviewer.jupyter.org/github/mogfl/Projects/blob/master/10.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B8%D0%B7%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D0%BE%D0%B2/%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9%20%D0%B8%D0%B7%20%D1%81%D0%B5%D1%82%D0%B8%20%D1%84%D0%B8%D0%BD%D1%82%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%B2.ipynb">Прогнозирование оттока пользователей из сети фитнес-центов</a></td>
     <td>На основе данных о посетителях сети фитнес-центров спрогнозировать вероятность оттока для каждого клиента в следующем месяце, сформировать с помощью кластеризации портреты пользователей</td>
-    <td>Pandas, NumPy, Matplotlib,<br>Seaborn, Scikit-lean, SciPy<br></td>
+    <td>Pandas, NumPy, Matplotlib,<br>Seaborn, Scikit-learn, SciPy<br></td>
   </tr>
   <tr>
     <td>11</td>
